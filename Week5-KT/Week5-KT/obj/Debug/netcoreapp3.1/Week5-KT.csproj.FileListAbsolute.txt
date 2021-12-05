@@ -1,0 +1,13 @@
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\Week5-KT\bin\Debug\netcoreapp3.1\Week5-KT.exe
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\Week5-KT\bin\Debug\netcoreapp3.1\Week5-KT.deps.json
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\Week5-KT\bin\Debug\netcoreapp3.1\Week5-KT.runtimeconfig.json
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\Week5-KT\bin\Debug\netcoreapp3.1\Week5-KT.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\Week5-KT\bin\Debug\netcoreapp3.1\Week5-KT.dll
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\Week5-KT\bin\Debug\netcoreapp3.1\Week5-KT.pdb
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\Week5-KT\obj\Debug\netcoreapp3.1\Week5-KT.csprojAssemblyReference.cache
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\Week5-KT\obj\Debug\netcoreapp3.1\Week5-KT.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\Week5-KT\obj\Debug\netcoreapp3.1\Week5-KT.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\Week5-KT\obj\Debug\netcoreapp3.1\Week5-KT.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\Week5-KT\obj\Debug\netcoreapp3.1\Week5-KT.dll
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\Week5-KT\obj\Debug\netcoreapp3.1\Week5-KT.pdb
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\Week5-KT\obj\Debug\netcoreapp3.1\Week5-KT.genruntimeconfig.cache

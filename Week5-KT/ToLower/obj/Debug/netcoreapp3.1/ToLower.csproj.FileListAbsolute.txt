@@ -1,0 +1,12 @@
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\ToLower\bin\Debug\netcoreapp3.1\ToLower.exe
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\ToLower\bin\Debug\netcoreapp3.1\ToLower.deps.json
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\ToLower\bin\Debug\netcoreapp3.1\ToLower.runtimeconfig.json
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\ToLower\bin\Debug\netcoreapp3.1\ToLower.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\ToLower\bin\Debug\netcoreapp3.1\ToLower.dll
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\ToLower\bin\Debug\netcoreapp3.1\ToLower.pdb
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\ToLower\obj\Debug\netcoreapp3.1\ToLower.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\ToLower\obj\Debug\netcoreapp3.1\ToLower.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\ToLower\obj\Debug\netcoreapp3.1\ToLower.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\ToLower\obj\Debug\netcoreapp3.1\ToLower.dll
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\ToLower\obj\Debug\netcoreapp3.1\ToLower.pdb
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\ToLower\obj\Debug\netcoreapp3.1\ToLower.genruntimeconfig.cache

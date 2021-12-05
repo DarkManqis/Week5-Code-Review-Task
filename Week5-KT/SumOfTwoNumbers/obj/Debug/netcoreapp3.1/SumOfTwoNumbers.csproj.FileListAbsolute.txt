@@ -1,0 +1,12 @@
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.exe
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.deps.json
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.runtimeconfig.json
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.dll
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.pdb
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.dll
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.pdb
+C:\Users\kasutaja\source\repos\Week5\Week5-KT\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.genruntimeconfig.cache
